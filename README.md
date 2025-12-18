@@ -1,0 +1,2 @@
+# SN74HC147N
+PCO exam 
